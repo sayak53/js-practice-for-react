@@ -19,14 +19,25 @@
 // console.log(numbers)
 // console.log(newNumbers)
 
-const heroes =[
-    {name:'batman',profession:'killing',dialouge:'i am vengance',killCount:50000},
-    {name:'superman',profession:'saving',dialouge:'not impresssed',killCount:500},
-    {name:'loki',profession:'killing',dialouge:'i am loki of asgard',killCount:10000000},
-    {name:'ironman',profession:'saving',dialouge:'i am ironman',killCount:800}
-]
+// const heroes =[
+//     {name:'batman',profession:'killing',dialouge:'i am vengance',killCount:50000},
+//     {name:'superman',profession:'saving',dialouge:'not impresssed',killCount:500},
+//     {name:'loki',profession:'killing',dialouge:'i am loki of asgard',killCount:10000000},
+//     {name:'ironman',profession:'saving',dialouge:'i am ironman',killCount:800}
+// ]
 
-// heroes.forEach(hero => console.log(hero.name))
-// heroes.map(hero => console.log(hero.dialouge))
-const dgHeroes = heroes.find(hero => hero.killCount > 10000)
-console.log(dgHeroes)
+// // heroes.forEach(hero => console.log(hero.name))
+// // heroes.map(hero => console.log(hero.dialouge))
+// const dgHeroes = heroes.find(hero => hero.killCount > 10000)
+// console.log(dgHeroes)
+
+// const info ={
+//     name:'John Wick',
+//     profession:'serial-killer',
+//     killCount:100000,
+//     position:'alive'
+// }
+
+// const{name,position,killCount,profession} = info;
+// console.log(name)
+// console.log(killCount)
