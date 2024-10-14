@@ -41,3 +41,7 @@
 // const{name,position,killCount,profession} = info;
 // console.log(name)
 // console.log(killCount)
+
+const num =52
+
+console.log(JSON.stringify(num))
