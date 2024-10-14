@@ -42,6 +42,6 @@
 // console.log(name)
 // console.log(killCount)
 
-const num =52
+// const num =52
 
-console.log(JSON.stringify(num))
+// console.log(JSON.stringify(num))
